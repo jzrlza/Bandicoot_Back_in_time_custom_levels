@@ -1,0 +1,29 @@
+Level Name: JZ31: Pyromania
+Difficulty: Normal to Hard
+Collectibles: :crystal: :gem3: :GemR: 
+Version 0.94c
+Description: Red hot level, short but hard, especially the red gem.
+
+Level Name: JZ32: Dendrotopia
+Difficulty: Normal
+Collectibles: :crystal: :gem3: :GemG: 
+Version 0.94c
+Description: Green lush level, moderate nitro amounts, and plants triggering switches.
+
+Level Name: JZ33: Cyrophobia
+Difficulty: Very Hard
+Collectibles: :crystal: :gem3: :GemB: 
+Version 0.94c
+Description: Blue hard icy level, full of slippery ice platforms.
+
+Level Name: JZ34: Geoconomy
+Difficulty: Normal to Hard
+Collectibles: :crystal: :gem3: :GemY: 
+Version 0.94c
+Description: Yellow crumbling platforms and preserving enemies.
+
+Level Name: JZ35: Electrocide
+Difficulty: Hard
+Collectibles: :crystal: :gem3: :GemP: 
+Version 0.94c
+Description: Purple (maybe) mechs destruction level, the purple gem is paired with clear gem as usual.
