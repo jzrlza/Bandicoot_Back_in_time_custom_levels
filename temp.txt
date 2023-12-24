@@ -1,0 +1,31 @@
+https://www.youtube.com/playlist?app=desktop&list=PLPdL_NmSfLJ1KRW_7Nvt_DT1496_GICzi
+
+Level Name: JZ36: Photolumineon
+Difficulty: Normal
+Collectibles: :crystal: :gem3: :GemR: 
+Version 0.94c
+Description: Bright level, but not too sunny due to explosives.
+
+Level Name: JZ37: Necrocounter
+Difficulty: Hard
+Collectibles: :crystal: :gem3: :GemG: 
+Version 0.94c
+Description: Counting deaths level and resurrect with checkpoints. Oh and the green gem should be the easiest one.
+
+Level Name: JZ38: Hydroglycerin
+Difficulty: Normal to Hard
+Collectibles: :crystal: :gem3: :GemB: 
+Version 0.94c
+Description: Watery level needed liquid, so is nitro inside the crates, hence the name, nitro platforms sliding ensues.
+
+Level Name: JZ39: Anemoavians
+Difficulty: Normal to Hard
+Collectibles: :crystal: :gem3: :GemY: 
+Version 0.94c
+Description: Windy level above in the sky, use the birds to guide to levels, but also be grateful to the first two.
+
+Level Name: JZ40: Umbraton
+Difficulty: Hard
+Collectibles: :crystal: :gem3: :GemP: 
+Version 0.94c
+Description: Darkness level, has reminisence of old levels.
