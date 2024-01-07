@@ -1,0 +1,265 @@
+Level Name: CB4Bonus01
+Difficulty: Very Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 1 [Rude Awakening]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus02
+Difficulty: Very Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 2 [N. Sanity Peak]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus03
+Difficulty: Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 3 [A Real Grind]
+Differences from original:
+1. Lani-Loli mask power in this stage is substituded with outlined switches
+
+Level Name: CB4Bonus04
+Difficulty: Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 4 [Crash Compactor]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus05
+Difficulty: Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 5 [Hit the Road]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus06
+Difficulty: Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 6 [Booty Calls]
+Differences from original:
+1. There's one locked-crate that does not fall 1 block after TNT below it exploded, but can be reached by double jump from other side instead
+
+Level Name: CB4Bonus07
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 7 [Thar He Blows!] (Dingodile's alt timeline level)
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. There are extra arrow iron crates to compensate for this fan game's weaker double jump
+
+Level Name: CB4Bonus08
+Difficulty: Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 8 [Jetboard Jetty]
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+
+Level Name: CB4Bonus09
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 9 [Give it a Spin]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus10
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 10 [Potion Commotion] (Tawna's alt timeline level)
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+
+Level Name: CB4Bonus11
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 11 [Draggin' On]
+Differences from original:
+1. There are on and off switch platforms to compensate for the lack of Akano Mask Power
+2. There are no dragon enemies in here, due to technical limits
+
+Level Name: CB4Bonus12
+Difficulty: Easy
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 12 [Off Balance]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus13
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 13 [Off Beat]
+Differences from original:
+1. Lani-Loni mask power references are completely exempted due to technical limits
+2. You must wait for the pre-generated bouncing irons to set up a bit before start
+3. Bouncing irons can only be bounced at fixed height here unlike in original where somes are shorter
+
+Level Name: CB4Bonus14
+Difficulty: Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 14 [Run it Bayou]
+Differences from original:
+1. You must wait for the pre-generated bouncing irons to set up a bit before start
+2. Time limited switch crates are just regular switch crates here
+
+Level Name: CB4Bonus15
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 15 [Snow Way Out]
+Differences from original:
+1. Aku-Aku masks provided for hitting nitro for lack of Kupana mask power, can always recollect Uka Uka for preserve double jump later
+2. Time limited switch crates are just regular switch crates here
+
+Level Name: CB4Bonus16
+Difficulty: Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 16 [Stay Frosty]
+Differences from original:
+1. Aku-Aku masks provided for hitting nitro for lack of Kupana mask power, can always recollect Uka Uka for preserve double jump later
+2. You must wait for the pre-generated bouncing irons to set up a bit before start
+3. Some Nitro crates are replaced with TNT crates for able to serve as bouncing platforms for substitude the lack of Kupana mask power
+4. Some switch crates got nerfed for possible passing before iron wall activated
+
+Level Name: CB4Bonus17
+Difficulty: Very Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 17 [Bears Repeating]
+Differences from original:
+1. You must wait for the pre-generated bouncing irons to set up a bit before start
+2. Some Nitro crates are replaced with TNT crates for able to serve as bouncing platforms for substitude the lack of Kupana mask power
+3. Some switch crates got nerfed for possible passing before iron wall activated
+
+Level Name: CB4Bonus18
+Difficulty: Very Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 18 [Building Bridges] (Tawna's alt timeline level)
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. You must wait for the pre-generated bouncing irons to set up a bit before start
+3. Some Nitro crates are replaced with TNT crates for able to serve as bouncing platforms for substitude the lack of Kupana mask power
+4. Bouncing irons can only be bounced at fixed height here unlike in original where somes are shorter
+5. The Nitro crates those sit on bouncing iron crates are now under the arrow iron crates due to technical limits, there's extra nitro switch crate in the end to make up for it
+
+Level Name: CB4Bonus19
+Difficulty: Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 19 [Blast to the Past]
+Differences from original:
+1. Time limited switch crates are just regular switch crates here
+2. The lava is substituded with lethal acid
+
+Level Name: CB4Bonus20
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 20 [Dino Dash]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus21
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 21 [Rock Blocked]
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. The stack of locked-crates can be either broken by side-slam or reaching its top from the right instead of left
+
+Level Name: CB4Bonus22
+Difficulty: Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 22 [Out for Launch]
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. Electric hazards are substituded with some less dangerous certain enemies
+3. Due to lack of Ika-Ika's power, on and off switch blocks are to replace this, and lock-crates which originally requires upside-down slam would need side slam while platform below is at "on" stage
+4. Again, due to lack of Ika-Ika's power, the supposed upside-down crates are normal sided, arrows looked weird
+
+Level Name: CB4Bonus23
+Difficulty: Very Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 23 [Shipping Error] (Cortex's alt timeline level)
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. Electric hazards are substituded with some less dangerous certain enemies
+3. Due to lack of Ika-Ika's power, on and off switch blocks are to replace this, and lock-crates which originally requires upside-down slam would need side slam while platform below is at "on" stage
+4. Again, due to lack of Ika-Ika's power, the supposed upside-down crates are normal sided, arrows looked weird
+5. There's Uka-Uka arrow to tell where to land next at certain point
+
+Level Name: CB4Bonus24
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 24 [Stowing Away]
+Differences from original:
+-None-
+
+Level Name: CB4Bonus25
+Difficulty: Very Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 25 [Crash Landed]
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. Fire Gyser hazards are replaced with Crash 1 and Crash 2 hazards depends on how it is placed
+3. Due to lack of Ika-Ika's power, on and off switch blocks are to replace this, and lock-crates which originally requires upside-down slam would need side slam while platform below is at "on" stage
+4. Again, due to lack of Ika-Ika's power, the supposed upside-down crates are normal sided, arrows looked weird
+5. Upside down iron bouncing crates and upside down slippery platforms are unable to function here due to technical limits
+
+Level Name: CB4Bonus26
+Difficulty: Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 26 [Food Run]
+Differences from original:
+1. Some Nitro crates are replaced with TNT crates for able to serve as bouncing platforms for substitude the lack of Kupana mask power
+2. The nitro switch crate can be bypassed at first iteration due to one nitro has been replaced with TNT making it possible to slide and jump sway until second iteration
+
+Level Name: CB4Bonus27
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 27 [Nitro Processing]
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+
+Level Name: CB4Bonus28
+Difficulty: Normal
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 28 [Toxic Tunnels]
+Differences from original:
+1. Flaming crates are replaced with the harmless Uka-Uka crates
+2. The lava is substituded with lethal acid
+
+Level Name: CB4Bonus29
+Difficulty: Hard
+Collectibles: :gem3: 
+Version 0.94c
+Description: Inspired by Crash Bandicoot 4 Bonus Level 29 [Cortex Castle]
+Differences from original:
+1. Aku-Aku masks provided for hitting nitro for lack of Kupana mask power, can always recollect Uka Uka for preserve double jump later
+2. You must wait for the pre-generated bouncing irons to set up a bit before start
+3. Some Nitro crates are replaced with TNT crates for able to serve as bouncing platforms for substitude the lack of Kupana mask power
+4. Trying to break the 2 locked crate at the middle will bounce you up instead of just go down, still not big issue
+5. The electrical enemies are substituded with bullet flower enemies, none of them are killable
