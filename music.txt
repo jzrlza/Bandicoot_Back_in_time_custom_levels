@@ -11,3 +11,9 @@ https://www.youtube.com/watch?v=G0LkKz_lV3U&list=PLqBQSL8gt0P9sjN1MlkfjUfDuJVBt8
 
 
 https://www.youtube.com/watch?v=TFAn9V44zRE
+
+Level Name: Timeless
+Difficulty: Easy to Normal
+Collectibles: :SapphireRelic: :GoldRelic: :PlatinumRelic: 
+Version: 0.94c
+Description: Platinum in less than a second... but there's also generous amount of time crates.
