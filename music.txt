@@ -17,3 +17,9 @@ Difficulty: Easy to Normal
 Collectibles: :SapphireRelic: :GoldRelic: :PlatinumRelic: 
 Version: 0.94c
 Description: Platinum in less than a second... but there's also generous amount of time crates.
+
+Level Name: JZ31: Pyromania
+Difficulty: Normal to Hard
+Collectibles: :crystal: :gem3: :GemR: 
+Version 0.94c
+Description: Red hot level, short but hard, especially the red gem.
