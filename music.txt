@@ -30,3 +30,9 @@ Difficulty: Normal to Hard
 Collectibles: :crystal: :gem3: :GemR: 
 Version 0.94c
 Description: Red hot level, short but hard, especially the red gem.
+
+Level Name: Dreadmill Frenzy
+Difficulty: Hard
+Collectibles: :Gem3:
+Version: 0.95 Test D
+Description: Testing the futuristic dreadmill with crates from many Crash titles as well.
