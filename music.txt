@@ -31,8 +31,8 @@ Collectibles: :crystal: :gem3: :GemR:
 Version 0.94c
 Description: Red hot level, short but hard, especially the red gem.
 
-Level Name: Dreadmill Frenzy
+Level Name: H2Go
 Difficulty: Hard
-Collectibles: :Gem3:
-Version: 0.95 Test D
-Description: Testing the futuristic dreadmill with crates from many Crash titles as well.
+Collectibles: :Gem: :GemB:
+Version: 0.95
+Description: It's all wet and moist, there's even acid and electric inside underwater, Water physics now knows no limit.
