@@ -33,8 +33,8 @@ Collectibles: :crystal: :gem3: :GemR:
 Version 0.94c
 Description: Red hot level, short but hard, especially the red gem.
 
-Level Name: ArabiaPaths
-Difficulty: Hard
-Collectibles: :crystal: :Gem: :GemR: :gem3:
+Level Name: Slotty Crates
+Difficulty: Normal (crate gem), Hard (the other gems)
+Collectibles: :Gem: :GemR: :gem3:
 Version: 0.95
-Description: Arabic level with essence of classic Crash Warped-ness, mixed with Crash 2-ness, of course no double jump.
+Description: The slot crates are the star here, they are underrated and time for them to shine.
