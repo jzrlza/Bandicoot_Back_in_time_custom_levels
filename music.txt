@@ -33,8 +33,32 @@ Collectibles: :crystal: :gem3: :GemR:
 Version 0.94c
 Description: Red hot level, short but hard, especially the red gem.
 
-Level Name: Slotty Crates
-Difficulty: Normal (crate gem), Hard (the other gems)
-Collectibles: :Gem: :GemR: :gem3:
+Level Name: Tubular Crash Zone
+Difficulty: Normal
+Collectibles: :crystal: :Gem: :GemR: :gem3:
 Version: 0.95
-Description: The slot crates are the star here, they are underrated and time for them to shine.
+Description: Name based on Pizza Tower's sewer level music "Tubular Trash Zone", level is very pipe-ly.
+
+Level Name: Toxic Checkpoints
+Difficulty: Easy (but do not die cuz it's unforgiving for the .exe)
+Collectibles: :crystal: :Gem: :GemG:
+Version: 0.95
+Description: The checkpoints being toxic literally, do not die until first skull platform, from that on it's more forgiving.
+
+Level Name: Pipe Crates
+Difficulty: Hard
+Collectibles: :crystal: :Gem: :GemB: :gem3:
+Version: 0.95
+Description: Breakable crates now also into pipe fashion, note that some locked crates and nitro bouncers can be destroyed by nitro due to their special conditions in the level. Also the blue gem requires life sacrifice and iron platform from slot crates temporary until death.
+
+Level Name: Plumber Check
+Difficulty: Easy
+Collectibles: :crystal: :Gem: :GemY:
+Version: 0.95
+Description: The machines are what operating the sewer, preserve them until yellow gem is gotten, that will be the key to solve plumbing further on, maybe... The level is easy, short, straightforward, nothing stands out.
+
+Level Name: Rat Crashing
+Difficulty: Hard
+Collectibles: :crystal: :Gem: :GemP: :gem3:
+Version: 0.95
+Description: Kill all pests in the sewer. Also dying once will not nullify skull route cuz you land on spawn to make it forgiving, but at the same time, all the 3 gems require you to take the skull route.
