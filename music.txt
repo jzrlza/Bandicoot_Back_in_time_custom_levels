@@ -1,3 +1,5 @@
+Things you can search  Fake Crash, Cortex, Super Pow, Shards Gem (orange gem prototype, not fully functional) 
+
 Level ideas
 Uncanny Bounce Blitz
 Ruby Labyrinth
@@ -5,6 +7,13 @@ Emerald Mineshaft
 Sapphire Shed
 Topaz Trunks
 Amethyst Arena
+
+Level Name: Explosive Escape
+Difficulty: Hard
+Collectibles: :crystal: :Gem:
+Version: 0.95
+Description: Coco does not need Crash to save her from captive (or might be in her place and still escape on his own), explosions are challenged ahead, while Fake Crash does nothing to guard, this is my first level with big blue pow crates, good luck.
+Bosses : Ripper Roo 1 HP, Cortex 3 HP both in the death route (that forgives you for any pre-deaths) at the end guarding crystal.
 
 
 https://www.youtube.com/watch?v=54mqWdAlJNo
