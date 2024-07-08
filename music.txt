@@ -8,12 +8,17 @@ Sapphire Shed
 Topaz Trunks
 Amethyst Arena
 
-Level Name: Explosive Escape
+Level Name: Slide Collision
 Difficulty: Hard
-Collectibles: :crystal: :Gem:
+Collectibles: :Gem:
 Version: 0.95
-Description: Coco does not need Crash to save her from captive (or might be in her place and still escape on his own), explosions are challenged ahead, while Fake Crash does nothing to guard, this is my first level with big blue pow crates, good luck.
-Bosses : Ripper Roo 1 HP, Cortex 3 HP both in the death route (that forgives you for any pre-deaths) at the end guarding crystal.
+Description: Not to be confused with the CTR track name "Slide Collusuem"... anyways, this level is about mixing ice platforms with treadmill platforms and see how they megamix together. *The ice cracking platforms are tricky, especially when they teamed with ice stalagmites against the switch crates , but here's the hint: once you step on it, it cracks but not yet break, touch it again will break it (if so, instant jump might save you out of it), you can slide over them, but after slide, do not stop there so that it will not break, take that in mind.*
+
+Level Name: Portal Is A Lie
+Difficulty: Hard
+Collectibles: :Gem: :gem3:
+Version: 0.95
+Description: Portal cake meme reference level, but with teleports as your enemy, checkpoints also demands your life for its cost.
 
 
 https://www.youtube.com/watch?v=54mqWdAlJNo
