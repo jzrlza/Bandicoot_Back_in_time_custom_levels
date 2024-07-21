@@ -8,6 +8,41 @@ Sapphire Shed
 Topaz Trunks
 Amethyst Arena
 
+Level Name: Nitro Til The End
+Difficulty: Normal
+Collectibles: :Gem: :GemB:
+Version: 0.95
+Description: Bouncy nitro level, short but require good jump timing and positioning.
+
+Level Name: Between Red Green
+Difficulty: Normal
+Collectibles: :Gem: :GemY:
+Version: 0.95
+Description: Theme of Duality of Red and Green in a pyramid, of course mix the light and do not kill enemies for yellow gem.
+
+Level Name: Heat Of Permian Plants
+Difficulty: Normal
+Collectibles: :Gem: :GemR: :gem3:
+Version: 0.95
+Description: Back in Time... to Permian, pre-dinosaur time where, in ficitious bandicoot world, plants are immune to fire.
+Boss: (red gem route at end) Koala, Tiny each 5 HP, no need to kill them, just escape past them for black gem.
+
+Level Name: Neo Chaos City
+Difficulty: Normal
+Collectibles: :Gem: :GemG: :gem3:
+Version: 0.95
+Description: Forward in Time... to Neo (Cortex) era, you have lots of Aku's forsight in this level, things are easy until after getting green gem.
+Boss: (second death route at end) Ripper, Cortex each 5 HP, no need to kill them, just escape past them for black gem.
+
+Level Name: Ze BanditCoot Bounty
+Difficulty: Hard
+Collectibles: :Gem: :GemP: :gem3:
+Version: 0.95
+Description: It is dark arabian level where you have to kill all enemies (not proximity to nitro), including bosses all at once at the end (luckily they are 1 hp now), bandit-coots got bounties on their head indeed.
+Boss: (second death route at end)  Koala, Tiny, Ripper, Cortex each 1 HP, kill them for purple gem, easier than it sounds.
+
+
+
 Level Name: Slide Collision
 Difficulty: Hard
 Collectibles: :Gem:
