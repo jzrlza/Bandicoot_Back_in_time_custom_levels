@@ -8,6 +8,12 @@ Sapphire Shed
 Topaz Trunks
 Amethyst Arena
 
+Level Name: 
+Difficulty: Normal
+Collectibles: :crystal: :Gem: :gem3:
+Version: 0.95
+Description: 
+
 Level Name: Nitro Til The End
 Difficulty: Normal
 Collectibles: :Gem: :GemB:
