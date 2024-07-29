@@ -14,6 +14,38 @@ Collectibles: :crystal: :Gem: :gem3:
 Version: 0.95
 Description: 
 
+Level Name: Minecraft Hardcore Emerald
+Difficulty: Normal
+Collectibles: :Gem: :GemG:
+Version: 0.95
+Description: Simulation of Minecraft Hardcore into Bandicoot world, but levels are mostly straightorward simple, there are few sections in order;l cave, plains, biomes, nether, skyblock, village. Note that dying once before green gem and checkpoint will trap you in lava box, which are near the end, make sure to preserve Aku masks for the skyblock and village parts as invincibility makes it easier there.
+
+Level Name: Deep Blue Dive Pow
+Difficulty: Normal
+Collectibles: :Gem: :GemB:
+Version: 0.95
+Description: Blue pow, blue gem, one break, breaks all but outlined, including the player if break before blue gem.
+
+Level Name: Too Many Helps From Aku Aku
+Difficulty: Hard
+Collectibles: :Gem: :GemY:
+Version: 0.95
+Description: Aku Aku is good right? Not always this time, "invincibility" can now easily kill you in this level, this is a damage-puzzle level, sometimes getting hurt is needed to progress. Death route becomes forgiving after first checkpoint due to its unusal activation mechanics.
+
+Level Name: Crash Red Handed
+Difficulty: Normal
+Collectibles: :Gem: :GemR:
+Version: 0.95
+Description: Red gem is in front of you, first thing you gonna to is collect it and see what happens for yourself... perhaps too soon, what in front of you perhaps requires death-free alternate route??
+
+Level Name: Ze Boss Rush
+Difficulty: Hard
+Collectibles: :GemP:
+Version: 0.95
+Description: 3 mutant bosses in 5 HPs at once with forced Aku invincibility against them, the roof is where you recharge your aku mask, but watch out for Uka mask at the top for 2 sections. Cortex is waiting for you after an iron checkpoint crate, but he's 2 HP due to technical issues. Defeat them all to gain purple gem (enemies kill counter also tels you), if any one of them stuck, you must die to reset.
+
+----------------------------
+
 Level Name: Nitro Til The End
 Difficulty: Normal
 Collectibles: :Gem: :GemB:
