@@ -14,6 +14,18 @@ Collectibles: :crystal: :Gem: :gem3:
 Version: 0.95
 Description: 
 
+Level Name: Aku Craze
+Difficulty: Hard
+Collectibles: :Gem: :gem3:
+Version: 0.95
+Description: When using invincibility of Aku-Aku is mandatory but also isn't always flat out easy? This is the level that challenge the morality of the Aku-Invinciblity while getting both gems. Death route can be accessed even dying before, but the real route requires tight slide one-block trick. Also the falling blocks part is inspired by "Space Blocked" by Dannyh09
+
+Level Name: Check Your Checkpoints
+Difficulty: Normal
+Collectibles: :Gem: :gem3:
+Version: 0.95
+Description: Make your the checkpoints you need to activate for gems won't trap you in death loop limbo or soft-locks, the level is fairly simple for most parts and not too long, the death route is very early in the level (also if complete it, has a portal to teleport back to beginning or can go to finish, your choice) with some juicy hints of where it is.
+
 Level Name: Minecraft Hardcore Emerald
 Difficulty: Normal
 Collectibles: :Gem: :GemG:
