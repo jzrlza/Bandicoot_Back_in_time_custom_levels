@@ -22,6 +22,12 @@ Collectibles: :crystal: :Gem: :gem3:
 Version: 0.95
 Description: 
 
+Level Name: Magnet Spin Training
+Difficulty: Normal
+Collectibles: :Gem: :gem3:
+Version: 0.95
+Description: Before playing "Magnetic Field" by grabielcial (or any harder levels with this mechanic requirement...), some of you might need to play this level first to give yourself some confidence. The level is much shorter and more like a tutorial for it. How? You need to slide from 2 solid blocks (spikes cannot however), and spin immediately after to get the hover onto ceiling effect. As Acid and Lava blocks cannot be slide over (but flat acid platform from version 0.94 can be slide throught), and without Aku Aku mask, Spike blocks cannot be slide and jump over as well.
+
 Level Name: Aku Craze
 Difficulty: Hard
 Collectibles: :Gem: :gem3:
