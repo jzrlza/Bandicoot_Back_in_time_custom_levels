@@ -22,6 +22,13 @@ Collectibles: :crystal: :Gem: :gem3:
 Version: 0.95
 Description: 
 
+Level Name: Trust The Nitros
+Difficulty: Hard (Normal on regular path, Very hard on Death Route)
+Collectibles: :Gem: :gem3:
+Version: 0.95
+Description: Inspired by "Magnetic Field" by grabielcial, but this is easier, because the inspired part mostly on death route, the normal path can be played without such trick normally. To get the box gem, some nitro bounce needed to be left off if it needs to, there's always falling iron above nitro for it to auto break after switch, trust in it, trust me.
+For the death route, I recommend play my previous level "Magnet Spin Training" first.
+
 Level Name: Magnet Spin Training
 Difficulty: Normal
 Collectibles: :Gem: :gem3:
