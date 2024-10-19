@@ -23,219 +23,38 @@ PJMixToo
 next level idead
 dark flame crates level
 
-Minecraft Aku
-https://www.curseforge.com/minecraft/texture-packs/aku-totem-of-undying/files/all?page=1&pageSize=20
-Roof
-https://www.youtube.com/watch?v=FGVz6FA151Y
-
-Death route remix new
-https://www.youtube.com/watch?app=desktop&v=C3MjmnBUOak
-https://www.youtube.com/watch?v=UIySptN8czU
-
-PVZ
-https://www.youtube.com/@grealy9728/videos
-
-bandicraft
-https://www.reddit.com/r/crashbandicoot/comments/1en0dj4/functional_crash_bandicoot_map_in_minecraft_first/
-
-other games:
-https://cyreides.itch.io/zerama
-https://torcado.itch.io/windowkill
-https://papercookies.itch.io/no-players-online
-https://hakita.itch.io/ultrakill-prelude
-
-
-Things you can search  Fake Crash, Cortex, Super Pow, Shards Gem (orange gem prototype, not fully functional) 
-
-Crash Bandicoot - Back In Time Fan Game: Custom Level: Manual Switchy By Jzrlza
-
-Since Terry didn't played this level, I decided to do this one myself, some levels can be too much for time or he does not play time trial levels at all.
-
-Level ideas
-Uncanny Bounce Blitz
-Ruby Labyrinth
-Emerald Mineshaft
-Sapphire Shed
-Topaz Trunks
-Amethyst Arena
-
-Level Name: 
-Difficulty: Normal
-Collectibles: :crystal: :Gem: :gem3:
-Version: 0.95
-Description: 
-
-Level Name: Trust The Nitros
-Difficulty: Hard (Normal on regular path, Very hard on Death Route)
-Collectibles: :Gem: :gem3:
-Version: 0.95
-Description: Inspired by "Magnetic Field" by grabielcial, but this is easier, because the inspired part mostly on death route, the normal path can be played without such trick normally. To get the box gem, some nitro bounce needed to be left off if it needs to, there's always falling iron above nitro for it to auto break after switch, trust in it, trust me.
-For the death route, I recommend play my previous level "Magnet Spin Training" first.
-
-Level Name: Magnet Spin Training
-Difficulty: Normal
-Collectibles: :Gem: :gem3:
-Version: 0.95
-Description: Before playing "Magnetic Field" by grabielcial (or any harder levels with this mechanic requirement...), some of you might need to play this level first to give yourself some confidence. The level is much shorter and more like a tutorial for it. How? You need to slide from 2 solid blocks (spikes cannot however), and spin immediately after to get the hover onto ceiling effect. As Acid and Lava blocks cannot be slide over (but flat acid platform from version 0.94 can be slide throught), and without Aku Aku mask, Spike blocks cannot be slide and jump over as well.
-
-Level Name: Aku Craze
-Difficulty: Hard
-Collectibles: :Gem: :gem3:
-Version: 0.95
-Description: When using invincibility of Aku-Aku is mandatory but also isn't always flat out easy? This is the level that challenge the morality of the Aku-Invinciblity while getting both gems. Death route can be accessed even dying before, but the real route requires tight slide one-block trick. Also the falling blocks part is inspired by "Space Blocked" by Dannyh09
-
-Level Name: Check Your Checkpoints
-Difficulty: Normal
-Collectibles: :Gem: :gem3:
-Version: 0.95
-Description: Make your the checkpoints you need to activate for gems won't trap you in death loop limbo or soft-locks, the level is fairly simple for most parts and not too long, the death route is very early in the level (also if complete it, has a portal to teleport back to beginning or can go to finish, your choice) with some juicy hints of where it is.
-
-Level Name: Minecraft Hardcore Emerald
-Difficulty: Normal
-Collectibles: :Gem: :GemG:
-Version: 0.95
-Description: Simulation of Minecraft Hardcore into Bandicoot world, but levels are mostly straightorward simple, there are few sections in order;l cave, plains, biomes, nether, skyblock, village. Note that dying once before green gem and checkpoint will trap you in lava box, which are near the end, make sure to preserve Aku masks for the skyblock and village parts as invincibility makes it easier there.
-
-Level Name: Deep Blue Dive Pow
-Difficulty: Normal
-Collectibles: :Gem: :GemB:
-Version: 0.95
-Description: Blue pow, blue gem, one break, breaks all but outlined, including the player if break before blue gem.
-
-Level Name: Too Many Helps From Aku Aku
-Difficulty: Hard
-Collectibles: :Gem: :GemY:
-Version: 0.95
-Description: Aku Aku is good right? Not always this time, "invincibility" can now easily kill you in this level, this is a damage-puzzle level, sometimes getting hurt is needed to progress. Death route becomes forgiving after first checkpoint due to its unusal activation mechanics.
-
-Level Name: Crash Red Handed
-Difficulty: Normal
-Collectibles: :Gem: :GemR:
-Version: 0.95
-Description: Red gem is in front of you, first thing you gonna to is collect it and see what happens for yourself... perhaps too soon, what in front of you perhaps requires death-free alternate route??
-
-Level Name: Ze Boss Rush
-Difficulty: Hard
-Collectibles: :GemP:
-Version: 0.95
-Description: 3 mutant bosses in 5 HPs at once with forced Aku invincibility against them, the roof is where you recharge your aku mask, but watch out for Uka mask at the top for 2 sections. Cortex is waiting for you after an iron checkpoint crate, but he's 2 HP due to technical issues. Defeat them all to gain purple gem (enemies kill counter also tels you), if any one of them stuck, you must die to reset.
-
-----------------------------
-
-Level Name: Nitro Til The End
-Difficulty: Normal
-Collectibles: :Gem: :GemB:
-Version: 0.95
-Description: Bouncy nitro level, short but require good jump timing and positioning.
-
-Level Name: Between Red Green
-Difficulty: Normal
-Collectibles: :Gem: :GemY:
-Version: 0.95
-Description: Theme of Duality of Red and Green in a pyramid, of course mix the light and do not kill enemies for yellow gem.
-
-Level Name: Heat Of Permian Plants
-Difficulty: Normal
-Collectibles: :Gem: :GemR: :gem3:
-Version: 0.95
-Description: Back in Time... to Permian, pre-dinosaur time where, in ficitious bandicoot world, plants are immune to fire.
-Bosses: (red gem route at end) Koala, Tiny each 5 HP, no need to kill them, just escape past them for black gem.
-
-Level Name: Neo Chaos City
-Difficulty: Normal
-Collectibles: :Gem: :GemG: :gem3:
-Version: 0.95
-Description: Forward in Time... to Neo (Cortex) era, you have lots of Aku's forsight in this level, things are easy until after getting green gem.
-Bosses: (second death route at end) Ripper, Cortex each 5 HP, no need to kill them, just escape past them for black gem.
-
-Level Name: Ze BanditCoot Bounty
-Difficulty: Hard
-Collectibles: :Gem: :GemP: :gem3:
-Version: 0.95
-Description: It is dark arabian level where you have to kill all enemies (not proximity to nitro), including bosses all 4 at once at the end (luckily they are 1 hp now), bandit-coots got bounties on their head indeed. Luckily fireflies and Aku-Aku crates all around to help the bandit-coots.
-Bosses: (second death route at end)  Koala, Tiny, Ripper, Cortex each 1 HP, kill them for purple gem, easier than it sounds.
 
 
 
-Level Name: Slide Collision
-Difficulty: Hard
-Collectibles: :Gem:
-Version: 0.95
-Description: Not to be confused with the CTR track name "Slide Collusuem"... anyways, this level is about mixing ice platforms with treadmill platforms and see how they megamix together. *The ice cracking platforms are tricky, especially when they teamed with ice stalagmites against the switch crates , but here's the hint: once you step on it, it cracks but not yet break, touch it again will break it (if so, instant jump might save you out of it), you can slide over them, but after slide, do not stop there so that it will not break, take that in mind.*
 
-Level Name: Portal Is A Lie
-Difficulty: Hard
-Collectibles: :Gem: :gem3:
-Version: 0.95
-Description: Portal cake meme reference level, but with teleports as your enemy, checkpoints also demands your life for its cost.
+Fire
+Grass
+Water
+Electric
+Poison
 
+Normal
 
-https://www.youtube.com/watch?v=54mqWdAlJNo
-tootsie the minecraft farm gal
+Rock
+Ghost
+Ice
+Ground
+Dark
 
+Fighting
 
+Fairy
+Bug
+Flying
+Steel
+Psychic
 
-unite
-14
-https://game8.co/games/Pokemon-UNITE/archives/355660
+Dragon
 
-https://www.mediafire.com/file/c0d4g0jojhh1wmy/cb_mancell.zip/file
+Red Gem Levels : Fire, Rock, Fairy
+Green Gem Levels : Grass, Ghost, Bug
+Blue Gem levels : Water, Ice, Flying
+Yellow Gem Levels : Electric, Ground, Steel
+Purple Gem Levels : Poison, Dark, Psychic
+Boss levels : Normal, Fighting, Dragon
 
-Crash Bandicoot Back in Time : Jzrlza Level _ Walkthrough : ___
-https://www.youtube.com/playlist?list=PLp9G3_k1Pc2LewOLCkQiO627-W6aRvd_H
-https://drive.google.com/drive/folders/1ava4Enf5paFqq45AkPqxJT7d27QUgZHa?usp=sharing
-
-temp
-https://www.youtube.com/playlist?list=PLp9G3_k1Pc2IrWCd39czVq-JqXz6yZh1z
-
-bandicutie
-https://www.youtube.com/playlist?list=PLuNy4pNrlPlb-39Xhq11VgdBfKQmw20X_
-
-Model for It's about time
-https://www.youtube.com/watch?v=G0LkKz_lV3U&list=PLqBQSL8gt0P9sjN1MlkfjUfDuJVBt8kLB&index=31&ab_channel=GameEater
-
-https://twitter.com/Malzykins/status/1641858989972500481
-
-https://www.youtube.com/watch?v=TFAn9V44zRE
-
-Level Name: Timeless
-Difficulty: Easy to Normal
-Collectibles: :SapphireRelic: :GoldRelic: :PlatinumRelic: 
-Version: 0.94c
-Description: Platinum in less than a second... but there's also generous amount of time crates.
-
-Level Name: JZ31: Pyromania
-Difficulty: Normal to Hard
-Collectibles: :crystal: :gem3: :GemR: 
-Version 0.94c
-Description: Red hot level, short but hard, especially the red gem.
-
-Level Name: Tubular Crash Zone
-Difficulty: Normal
-Collectibles: :crystal: :Gem: :GemR: :gem3:
-Version: 0.95
-Description: Name based on Pizza Tower's sewer level music "Tubular Trash Zone", level is very pipe-ly.
-
-Level Name: Toxic Checkpoints
-Difficulty: Easy (but do not die cuz it's unforgiving for the .exe)
-Collectibles: :crystal: :Gem: :GemG:
-Version: 0.95
-Description: The checkpoints being toxic literally, do not die until first skull platform, from that on it's more forgiving.
-
-Level Name: Pipe Crates
-Difficulty: Hard
-Collectibles: :crystal: :Gem: :GemB: :gem3:
-Version: 0.95
-Description: Breakable crates now also into pipe fashion, note that some locked crates and nitro bouncers can be destroyed by nitro due to their special conditions in the level. Also the blue gem requires life sacrifice and iron platform from slot crates temporary until death.
-
-Level Name: Plumber Check
-Difficulty: Easy
-Collectibles: :crystal: :Gem: :GemY:
-Version: 0.95
-Description: The machines are what operating the sewer, preserve them until yellow gem is gotten, that will be the key to solve plumbing further on, maybe... The level is easy, short, straightforward, nothing stands out.
-
-Level Name: Rat Crashing
-Difficulty: Hard
-Collectibles: :crystal: :Gem: :GemP: :gem3:
-Version: 0.95
-Description: Kill all pests in the sewer. Also dying once will not nullify skull route cuz you land on spawn to make it forgiving, but at the same time, all the 3 gems require you to take the skull route.
