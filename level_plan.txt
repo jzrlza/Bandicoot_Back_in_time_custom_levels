@@ -27,34 +27,10 @@ dark flame crates level
 
 
 
-Fire
-Grass
-Water
-Electric
-Poison
-
-Normal
-
-Rock
-Ghost
-Ice
-Ground
-Dark
-
-Fighting
-
-Fairy
-Bug
-Flying
-Steel
-Psychic
-
-Dragon
-
-Red Gem Levels : Fire, Rock, Fairy
-Green Gem Levels : Grass, Ghost, Bug
+Red Gem Levels : Fire, Rock, Ground
+Green Gem Levels : Grass, Psychic, Fairy
 Blue Gem levels : Water, Ice, Flying
-Yellow Gem Levels : Electric, Ground, Steel
-Purple Gem Levels : Poison, Dark, Psychic
+Yellow Gem Levels : Electric, Poison, Steel
+Purple Gem Levels : Bug, Dark, Ghost
 Boss levels : Normal, Fighting, Dragon
 
