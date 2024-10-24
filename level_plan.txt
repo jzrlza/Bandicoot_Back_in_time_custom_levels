@@ -34,3 +34,11 @@ Yellow Gem Levels : Electric, Poison, Steel
 Purple Gem Levels : Bug, Dark, Ghost
 Boss levels : Normal, Fighting, Dragon
 
+►Obj_AllCratesGem
+♫Obj_UnusualGem
+☼Obj_NoCratesGem
+◙Obj_RedGem
+♀Obj_GreenGem
+♪Obj_YellowGem
+♪Obj_PurpleGem
+♪Obj_OrangeGem
