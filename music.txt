@@ -59,11 +59,21 @@ Sapphire Shed
 Topaz Trunks
 Amethyst Arena
 
-Level Name: 
-Difficulty: Normal
+Level Name:
+Difficulty: 
+Length: 
 Collectibles: :crystal: :Gem: :gem3:
 Version: 0.95
 Description: 
+Link : 
+
+Level Name: Crate Blocked Tomb
+Difficulty: Hard
+Length: Normal (contains Death Route, there are forgiving platforms at start, be sure to land on them before advance)
+Collectibles: :crystal: :Gem: :gem3:
+Version: 0.95
+Description: Reinforced crates block your way to sliding, but with help from the great and powerful Aku Aku, nothing can stop you except death.
+Link : https://crashcreator.com/levels/crate-blocked-tomb
 
 Level Name: Trust The Nitros
 Difficulty: Hard (Normal on regular path, Very hard on Death Route)
