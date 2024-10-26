@@ -67,6 +67,24 @@ Version: 0.95
 Description: 
 Link : 
 
+Level Name: The Elementals Madness
+Difficulty: Normal to Hard
+Length: Moderately Long (each element is short, still)
+Collectibles: :GemG: :GemB: :GemR: :GemY: :GemP: :orange_circle: :Gem: :gemBK: 
+Version: 0.95
+Description: 
+A level with 6 mini-levels, each with middle checkpoint and not too long.
+Gem by elements.
+Fight Ripper Roo the elemental doctor at the end for black gem (optional)
+All colored gems are required to beat this level, yet none but red have requirement conditions like how it usually is.
+Green = Earth/Wood
+Blue = Water/Ice
+Red = Fire/Magma
+Yellow = Wind/Thunder
+Purple = Darkness
+Orange = Light
+DL Link : https://crashcreator.com/levels/the-elementals-madness
+
 Level Name: Crate Blocked Tomb
 Difficulty: Hard
 Length: Normal (contains Death Route, there are forgiving platforms at start, be sure to land on them before advance)
