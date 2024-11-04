@@ -88,7 +88,7 @@ DL Link : https://crashcreator.com/levels/the-elementals-madness
 Level Name: Crate Blocked Tomb
 Difficulty: Hard
 Length: Normal (contains Death Route, there are forgiving platforms at start, be sure to land on them before advance)
-Collectibles: :crystal: :Gem: :gem3:
+Collectibles: :crystal: :Gem: :gemBK:
 Version: 0.95
 Description: Reinforced crates block your way to sliding, but with help from the great and powerful Aku Aku, nothing can stop you except death.
 Link : https://crashcreator.com/levels/crate-blocked-tomb
