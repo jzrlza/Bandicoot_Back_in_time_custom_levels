@@ -91,7 +91,7 @@ Length: Normal (contains Death Route, there are forgiving platforms at start, be
 Collectibles: :crystal: :Gem: :gemBK:
 Version: 0.95
 Description: Reinforced crates block your way to sliding, but with help from the great and powerful Aku Aku, nothing can stop you except death.
-Link : https://crashcreator.com/levels/crate-blocked-tomb
+Link : https://www.youtube.com/watch?v=ECz-gUC92FY
 
 Level Name: Trust The Nitros
 Difficulty: Hard (Normal on regular path, Very hard on Death Route)
