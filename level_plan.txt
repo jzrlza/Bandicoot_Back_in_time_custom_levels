@@ -58,6 +58,9 @@ block = front hex map
 ♪Obj_PurpleGem = 0D
 ♪Obj_OrangeGem = 0D
 
+♪Obj_FakeCrash
+
+
 
 
 Level Name: The Elementals Madness
