@@ -59,9 +59,10 @@ block = front hex map
 ♪Obj_OrangeGem = 0D
 
 ♪Obj_FakeCrash
-
-
-
+♪Obj_RipperRoo
+♪Obj_KoalaKong
+♪Obj_TinyTiger
+◙Obj_Cortex
 
 Level Name: The Elementals Madness
 Difficulty: Normal to Hard
