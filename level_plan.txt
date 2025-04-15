@@ -1,5 +1,11 @@
 Level plans:
 
+WWE themed level ==> Fight bosses with actual fights (5 HP for 1 fight), with clones x3 (but less HP) aftermath of defeat for each of 4 bosses.
+Name: CopyPastaWrestleMania
+
+
+
+
 TEtris iron block stack
 
 Jojo coot
