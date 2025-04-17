@@ -63,6 +63,7 @@ block = front hex map
 ♪Obj_YellowGem = 0D
 ♪Obj_PurpleGem = 0D
 ♪Obj_OrangeGem = 0D
+♂Obj_Crystal
 
 ♪Obj_FakeCrash
 ♪Obj_RipperRoo
