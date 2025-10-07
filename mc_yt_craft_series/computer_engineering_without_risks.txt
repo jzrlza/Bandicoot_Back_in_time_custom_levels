@@ -14,3 +14,5 @@ https://en.wikipedia.org/wiki/Subtractor
 
 https://en.m.wikipedia.org/wiki/Binary_multiplier
 
+
+https://www.101computing.net/8-bit-alu-using-logic-gates/
