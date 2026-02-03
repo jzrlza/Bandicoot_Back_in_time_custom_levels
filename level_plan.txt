@@ -45,6 +45,8 @@ dark flame crates level
 
 
 
+<<<<HOW?????>>>>
+Turn each trial clock into colored gems after placing red gem, in hxd, put red gem at the bottommost string (with messy laters after it but before next ♫ block (that belonged to next block))
 
 
 Red Gem Levels : Fire, Rock, Ground
