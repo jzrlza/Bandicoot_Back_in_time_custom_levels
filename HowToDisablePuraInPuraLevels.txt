@@ -1,0 +1,2 @@
+Copy World Instance object from Traditional Platform levels (any), and delete the Pure-dependant one
+Pure obj is named Spawner OBJ
